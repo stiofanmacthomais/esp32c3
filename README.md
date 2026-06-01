@@ -6,3 +6,6 @@ A simple project using an ESP32C3-Supermini node connected to a BME/BMP280 senso
 - The devices are powered over the 3.3v power pin on the board.
 
 Of note was the need to boost the power of the ESP32C3 to get a wifi connection
+
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/374d1b6d-d583-41b0-932e-7954a96c051a" />
+
